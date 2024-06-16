@@ -20,7 +20,6 @@ My Solution Analysis:
 
   ![image](https://github.com/xo-azeem/Longest-Common-Prefix-LeetCode/assets/171427226/a327b2f4-416a-4ae7-9372-c7a0ff2fa7e9)
 
-Time Complexity: O(n^2).
-Space Complexity: O(1).
+Time Complexity: O(n^2).</br>Space Complexity: O(1).
 
 </div>
